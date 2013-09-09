@@ -7,10 +7,10 @@ Screenshots
 ===========
 
 ![Alt text][Django Blog Zinnia Mirror Edge - latest entries]
-[Django Blog Zinnia Mirror Edge - later entries]: https://raw.github.com/eggforsale/zinnia_mirrorsedge/master/zinnia_mirrorsedge/screenshoots/zinnia_mirrorsenge_latest_entries.png
+[Django Blog Zinnia Mirror Edge - latest entries]: https://raw.github.com/eggforsale/zinnia_mirrorsedge/master/zinnia_mirrorsedge/screenshots/zinnia_mirrorsedge_latest_entries.png
 
 ![Alt text][Django Blog Zinnia Mirror Edge - entry]
-[Django Blog Zinnia Mirror Edge - entry]: https://raw.github.com/eggforsale/zinnia_mirrorsedge/master/zinnia_mirrorsedge/screenshoots/zinnia_mirrorsedge_entry.png
+[Django Blog Zinnia Mirror Edge - entry]: https://raw.github.com/eggforsale/zinnia_mirrorsedge/master/zinnia_mirrorsedge/screenshots/zinnia_mirrorsedge_entry.png 
 
 
 Authors and Contributors
