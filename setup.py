@@ -1,11 +1,11 @@
-"""Setup script for zinnia-theme-bootstrap"""
+"""Setup script for zinnia_mirrorsedge"""
 from setuptools import setup
 from setuptools import find_packages
 
 import zinnia_bootstrap
 
 setup(
-    name='zinnia-mirrorsedge',
+    name='zinnia_mirrorsedge',
     version=zinnia_mirrorsedge.__version__,
 
     description='Django Blog Zinnia Mirror\'s Edge theme for django-blog-zinnia',
