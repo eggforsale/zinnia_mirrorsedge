@@ -6,11 +6,11 @@ Django Blog Zinnia Mirror's Edge is a python package providing a theme based od 
 Screenshots
 ===========
 
-![Alt text][Django Blog Zinnia Mirror's Edge - latest entries]
-[Django Blog Zinnia Mirror's Edge - later entries]: https://raw.github.com/eggforsale/zinnia_mirrorsedge/master/screenshoots/zinnia_mirrorsenge_latest_entries.png
+![Alt text][Django Blog Zinnia Mirror Edge - latest entries]
+[Django Blog Zinnia Mirror Edge - later entries]: https://raw.github.com/eggforsale/zinnia_mirrorsedge/master/zinnia_mirrorsedge/screenshoots/zinnia_mirrorsenge_latest_entries.png
 
-![Alt text][Django Blog Zinnia Mirror's Edge - entry]
-[Django Blog Zinnia Mirror's Edge - entry]: https://raw.github.com/eggforsale/zinnia_mirrorsedge/master/screenshoots/zinnia_mirrorsedge_entry.png
+![Alt text][Django Blog Zinnia Mirror Edge - entry]
+[Django Blog Zinnia Mirror Edge - entry]: https://raw.github.com/eggforsale/zinnia_mirrorsedge/master/zinnia_mirrorsedge/screenshoots/zinnia_mirrorsedge_entry.png
 
 
 Authors and Contributors
